@@ -1,0 +1,34 @@
+header {
+    width: 1000px;
+    background-color: #ffcccc;
+}
+
+p {
+    margin: 0 0;
+}
+
+li {
+    margin: 0 0;
+}
+
+#wrapper {
+    width: 1000px;
+    overflow: hidden;
+}
+
+#menu {
+    background-color: #ccccff;
+    width: 300px;
+    float: right;
+}
+
+#main {
+    background-color: #ccffcc;
+    width: 700px;
+    float: left;
+}
+
+footer {
+    background-color: #ffccff;
+    width: 1000px
+}

@@ -1,0 +1,18 @@
+nav ul {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+}
+
+nav ul li {
+  display: inline-block;
+  width: 100px;
+  background-color: #dddddd;
+  text-align: center;
+  padding: 5px;
+}
+
+.long-content {
+  height: 3000px;
+  background-color: skyblue;
+}
